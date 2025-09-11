@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#tasklist::-webkit-scrollbar {
+    display: none;
+    scroll-behavior: smooth;
+}
+
+#x::-webkit-scrollbar {
+    display: none;
+    scroll-behavior: smooth;
+}
