@@ -64,7 +64,7 @@ const Login = ({ handleLogin }) => {
     <div className="flex flex-col min-h-screen w-full justify-center items-center bg-gradient-to-br from-gray-900 via-black to-gray-800 px-4">
       {/* 🔥 Fancy Heading */}
       <h1 className="mb-8 text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-300 drop-shadow-[0_5px_15px_rgba(0,255,150,0.7)] tracking-wide animate-pulse text-center">
-        Employee Management System
+        Employee Management System...
       </h1>
 
       {/* 🔥 Glassmorphism Form Card */}
